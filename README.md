@@ -24,3 +24,4 @@ App.js'de görüldüğü üzere CoinFlipper adlı bir component render ediyoruz.
 
 1. Butona basıldıkça atış yapıyoruz, dolayısıyla toplam atış sayısını hesaplamak için state'de bunun için bir değer tutmalı, buton her tıklandığında bu değeri 1 artırmalıyız.
 2. Yazı-tura durumu rastgele belirlenecek. Bunu sağlamak için 0 ve 1 sayıları arasında rastgele seçim yapacak bir fonksiyon yazabiliriz. 0 bizim için turayı, 1 bizim için yazıyı temsil edebilir. Kodu incelediğinizde göreceğiniz, parayı döndürme işleminin olduğu yerde rastgele gelen bu yeni değeri state'e atabiliriz.
+"# YaziTuraWithReact" 
